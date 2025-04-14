@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mechanical.alwejhagroup.com/sitemap.xml
